@@ -10,11 +10,11 @@ The project utilizes Python Selenium for web scraping and scikit-learn (sklearn)
 The following instructions will guide you through setting up the project on your local machine.
 
 ## Prerequisites
-Python 3.x
-Selenium
-scikit-learn (sklearn) 
-Streamlit - To test-run the model
-Other necessary packages can be found in the requirements.txt file
+- Python
+- Selenium
+- scikit-learn (sklearn) 
+- Streamlit - To test-run the model
+- Other necessary packages can be found in the requirements.txt file
 
 ### Installing
 Clone the repository to your local machine

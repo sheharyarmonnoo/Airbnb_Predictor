@@ -19,5 +19,5 @@ Other necessary packages can be found in the requirements.txt file
 ### Installing
 Clone the repository to your local machine
 
-$ git clone [https://github.com/](https://github.com/sheharyarmonnoo/Airbnb_Predictor.git)
+$ git clone https://github.com/sheharyarmonnoo/Airbnb_Predictor.git
 
